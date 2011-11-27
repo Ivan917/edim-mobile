@@ -29,7 +29,8 @@ or implied, of Ederson Machado (edersonn@gmail.com).
 
 
 """
-    Important: There is a bug on ibtool when you add a 'Segment Control View' and then remove it... don't do it :)
+    Important 1: There is a bug on ibtool when you add a 'Segment Control View' and then remove it... don't do it :)
+    Important 2: See this video to know how this script work with more details: http://www.youtube.com/watch?v=cF1Rf02QvZQ
 """
 
 import sys
